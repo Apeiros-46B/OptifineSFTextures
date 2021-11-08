@@ -1,5 +1,5 @@
 # OptifineSFTextures
-a Slimefun Resource pack created by GentlemanCheesy and Apeiros (aka lytespeed or Hexa Gone)
+a Slimefun Resource pack created by GentlemanCheesy and Apeiros
 
 **OPTIFINE IS REQUIRED!**
 
